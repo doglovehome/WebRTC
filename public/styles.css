@@ -1,0 +1,28 @@
+html {
+    overflow: hidden;
+    height: 100%;
+}
+  
+video {
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    object-fit: cover;
+    background-color: red;
+}
+
+
+/* body {
+    background-color: black;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+} */
